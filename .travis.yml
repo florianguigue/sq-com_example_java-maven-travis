@@ -17,5 +17,5 @@ script:
 
 cache:
   directories:
-    - '$HOME/.m2/repository'
-    - '$HOME/.sonar/cache'
+    - 'C:/Utilisateurs/A643564/.m2/repository'
+    - 'C:/Utilisateurs/A643564/.sonar/cache'
