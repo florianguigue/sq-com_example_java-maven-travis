@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "florianguigue-github"
     token:
-      secure: travis encrypt "token"
+      secure: "b3553bf1d2cf0047f4880abd0beda3de9c3fd6ff"
 
 jdk:
   - oraclejdk8
